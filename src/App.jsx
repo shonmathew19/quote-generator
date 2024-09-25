@@ -1,14 +1,14 @@
 
 import './App.css'
 import Header from './components/Header'
-import QuoteGenerator from './components/quoteGenerator'
+import QuoteGenerators from './components/QuoteGenerators';
 
 function App() {
 
   return (
     <>
       <Header />
-      <QuoteGenerator />
+      <QuoteGenerators />
     </>
   )
 }
