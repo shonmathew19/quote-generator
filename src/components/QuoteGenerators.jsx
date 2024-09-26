@@ -61,7 +61,7 @@ function QuoteGenerator() {
 
                     <Col xs="auto" className='mt-3'>
                         <h1 className='text-center gradient-header'>Random Quotes Generator</h1>
-                        <div className='border border-5 rounded p-3 m-5'>
+                        <div className='border border-5 rounded p-3 m-2'>
                             <p>"Welcome to our random quote generator, where inspiration is just a click away! This website offers a curated selection of motivational, insightful, and thought-provoking quotes from a diverse range of authors, philosophers, and historical figures. Whether you're looking for a spark of creativity, a moment of reflection, or a positive boost to your day, our random quote generator is designed to provide you with meaningful and impactful words.
                                 With each click, you’ll receive a fresh, unique quote, making it the perfect tool for anyone in need of daily inspiration or motivation. You can explore quotes across different categories such as life, success, love, and wisdom, ensuring that there's something for everyone. Plus, our simple and elegant design ensures that the focus remains on the power of the words themselves."
                             </p>
