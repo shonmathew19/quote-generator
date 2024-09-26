@@ -80,6 +80,7 @@ function QuoteGenerator() {
                                     max="5"
                                     id="quoteCount"
                                     placeholder="Enter number of quotes"
+                                    readOnly
                                 />
 
                                 <label htmlFor="quoteRange" className="form-label">Adjust Quote Range:</label>
